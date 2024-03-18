@@ -6,19 +6,33 @@ I have a background in Engineering with educational certificates such as Google 
 
 You can see more information in my Resume.
 
-This repo was created to showcase my contribution to different projects in more detail for applications. This allows hiring managers to see into my methods and skills so they can discover how I may be an asset to a particular project. \
+This repo was created to showcase my contribution to different projects in more detail for applications. This allows hiring managers to see into my methods and skills so they can discover how I may be an asset to a particular project.
 
 ## Content 
 
 ## Portfolio Projects
-This section contains a list of my projects with brief descriptions
+This section contains some of my projects with brief descriptions
 
 ### ERP Enhancements
 **Description**: 
 **Artifacts**: 
+
+### Marketing Data Hub
+**Description**: 
+**Artifacts**:
+
+### Database Migration
+**Description**: 
+**Artifacts**:
+
+### Compliance
+**Description**: 
+**Artifacts**:
 
 ## Study Projects
 
 ## Certificates
 
 ## Contact Me
+Email: baqi.bkuku@gmail.com
+Number(VOIP): +17372158570
