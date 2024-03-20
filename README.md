@@ -1,7 +1,6 @@
 # Alaba Baqi Balogun-Kuku - Business Analyst Portfolio
 ## Contact
-Email: baqi.bkuku@gmail.com  
-Number(VOIP): +17372158570
+Email: baqi.bkuku@gmail.com  Number(VOIP): +17372158570
 
 ## About me
 My name is Baqi, and this is my portfolio.
@@ -33,7 +32,3 @@ This section contains some of my projects with brief descriptions, please click 
 [Google Project Management Professional](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/Google%20Project%20Management%20Certificate%20-%203RDBJAW2JEFE.pdf)  
 [Certified Scrum Master (CSM)](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/ScrumAlliance_CSM_Certificate.pdf)  
 [AWC Certified Cloud Practioner](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/AWS%20Certified%20Cloud%20Practitioner%20Certificate.pdf)
-
-## Contact Me
-Email: baqi.bkuku@gmail.com  
-Number(VOIP): +17372158570
