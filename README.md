@@ -1,4 +1,8 @@
 # Alaba Baqi Balogun-Kuku - Business Analyst Portfolio
+## Contact
+Email: baqi.bkuku@gmail.com  
+Number(VOIP): +17372158570
+
 ## About me
 My name is Baqi, and this is my portfolio.
 I have over 7 years of experience in business analysis and have contributed to a variety of projects with my most important achivement and contribution in  ERP enahncements project, database migration project, and integration of a marketing data hub.
