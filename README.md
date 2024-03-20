@@ -1,6 +1,6 @@
 # Alaba Baqi Balogun-Kuku - Business Analyst Portfolio
 ## Contact
-Email: baqi.bkuku@gmail.com  Number(VOIP): +17372158570
+Email: baqi.bkuku@gmail.com, Number(VOIP): +17372158570
 
 ## About me
 My name is Baqi, and this is my portfolio.
