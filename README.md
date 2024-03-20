@@ -13,7 +13,7 @@ This repo was created to showcase my contribution to different projects in more 
 ## Portfolio Projects
 This section contains some of my projects with brief descriptions
 
-### ERP Enhancements
+### [ERP Enhancements](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Portfolio%20Projects/BA%20Portfolio-ERP%20Enhancement%20Project.pdf)
 **Description**: The ERP enhancements project aimed to streamline business operations, enhance data visibility, and improve decision-making capabilities through targeted enhancements to the existing ERP system. As the lead Business Analyst, I played a central role in gathering requirements, collaborating with stakeholders, and facilitating the implementation of ERP enhancements across various functional areas of the organization.
 
 ### Marketing Data Hub
