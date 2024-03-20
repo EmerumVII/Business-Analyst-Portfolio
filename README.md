@@ -8,25 +8,22 @@ You can see more information in my Resume.
 
 This repo was created to showcase my contribution to different projects in more detail for applications. This allows hiring managers to see into my methods and skills so they can discover how I may be an asset to a particular project.
 
-## Content 
-
 ## Portfolio Projects
-This section contains some of my projects with brief descriptions
+This section contains some of my projects with brief descriptions, please click on each project to find out more about them.
 
 ### [ERP Enhancements](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Portfolio%20Projects/BA%20Portfolio-ERP%20Enhancement%20Project.pdf)
 **Description**: The ERP enhancements project aimed to streamline business operations, enhance data visibility, and improve decision-making capabilities through targeted enhancements to the existing ERP system. As the lead Business Analyst, I played a central role in gathering requirements, collaborating with stakeholders, and facilitating the implementation of ERP enhancements across various functional areas of the organization.
 
-### Marketing Data Hub
+### [Marketing Data Hub](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Portfolio%20Projects/BA%20Portfolio-MDH%20Project.pdf)
 **Description**: The marketing data platform project aimed to enhance target marketing efforts and improve customer experiences by centralizing and optimizing marketing data solutions. As the lead Business Analyst, I was responsible for gathering requirements, collaborating with stakeholders, and customizing the hub/platform to meet business needs.
 
-### CRM Implementation
+### [CRM Implementation](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Portfolio%20Projects/BA%20Portfolio-CRM%20Implementation%20Project.pdf)
 **Description**: This project aimed to replace the legacy CRM system with Salesforce, providing a unified platform for sales and marketing activities. It included customizing the Salesforce environment to fit the unique needs of the business, automating workflows, and training users on the new system.
 
-### Compliance
+### Compliance (Incoming)
 **Description**: 
-**Artifacts**:
 
-## Study Projects
+## Study Projects (Incoming)
 
 ## Certificates (Active)
 [Google Project Management Professional](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/Google%20Project%20Management%20Certificate%20-%203RDBJAW2JEFE.pdf)  
