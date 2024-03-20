@@ -29,10 +29,10 @@ This section contains some of my projects with brief descriptions
 ## Study Projects
 
 ## Certificates (Active)
-[Google Project Management Professional](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/Google%20Project%20Management%20Certificate%20-%203RDBJAW2JEFE.pdf)
-[Certified Scrum Master (CSM)](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/ScrumAlliance_CSM_Certificate.pdf)
+[Google Project Management Professional](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/Google%20Project%20Management%20Certificate%20-%203RDBJAW2JEFE.pdf)  
+[Certified Scrum Master (CSM)](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/ScrumAlliance_CSM_Certificate.pdf)  
 [AWC Certified Cloud Practioner](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/AWS%20Certified%20Cloud%20Practitioner%20Certificate.pdf)
 
 ## Contact Me
-Email: baqi.bkuku@gmail.com
+Email: baqi.bkuku@gmail.com  
 Number(VOIP): +17372158570
