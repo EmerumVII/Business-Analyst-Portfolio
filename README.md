@@ -23,11 +23,6 @@ This section contains some of my projects with brief descriptions, please click 
 ### [CRM Implementation](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Portfolio%20Projects/BA%20Portfolio-CRM%20Implementation%20Project.pdf)
 **Description**: This project aimed to replace the legacy CRM system with Salesforce, providing a unified platform for sales and marketing activities. It included customizing the Salesforce environment to fit the unique needs of the business, automating workflows, and training users on the new system.
 
-### Compliance (Incoming)
-**Description**: 
-
-## Study Projects (Incoming)
-
 ## Certificates (Active)
 [Google Project Management Professional](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/Google%20Project%20Management%20Certificate%20-%203RDBJAW2JEFE.pdf)  
 [Certified Scrum Master (CSM)](https://github.com/EmerumVII/Business-Analyst-Portfolio/blob/main/Certificates/ScrumAlliance_CSM_Certificate.pdf)  
